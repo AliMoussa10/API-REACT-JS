@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+nav{
+ background-color: rgba(17, 16, 16);
+}
+.container-fluid{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #fff;
+}
+.container-fluid a{
+  color: #fff;
+}
+.container-fluid a:hover{
+  color: #fff;
+}
+img{
+  width: 100%;
+  height: auto;
+
+}
